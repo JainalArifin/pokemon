@@ -1,0 +1,29 @@
+.list-item {
+    margin: 5px 0px;
+    padding: 7px;
+    font-family: fantasy;
+    border-radius: 6px;
+    box-shadow: 3px 3px 3px #c7c7c7;
+    background-color: #d224d2;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+}
+.banner-img{
+    width: 65%;
+    margin: 26px 0px;
+    box-shadow: 7px 7px 12px #c5c5c5;
+}
+
+.list-item:hover {
+    background-color: purple;
+    color: white;
+}
+
+.input-search {
+    width: 300px !important;
+    border: 3px solid #a59d9d;
+    border-radius: 0px;
+    margin: auto;
+    font-family: fantasy;
+}

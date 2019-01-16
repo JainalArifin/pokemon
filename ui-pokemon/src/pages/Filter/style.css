@@ -1,0 +1,14 @@
+.language {
+    background-color: #4b27d6;
+    margin-top: 20px;
+    color: white;
+    text-align: center;
+    font-family: none;
+    height: 29px;
+    border-radius: 2px;
+    box-shadow: 3px 3px 3px #b9b9b9;
+}
+.text-indices {
+    font-family: fantasy;
+    font-size: 35px;
+}
